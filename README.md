@@ -1,25 +1,22 @@
-<!--# Statistics-->
-<h1 style="text-decoration: underline;">Statistics</h1>
-
-<div align="left">
-<!--     <img height="350em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubVladimirT&theme=chartreuse-dark&langs_count=7" /> -->
-    <img height="200em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-</div>
-
-<br>
-
-<!--<p align="left"> 
-    <img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
-</p>-->
-
-<!--# Stacks-->
 <h1 style="text-decoration: underline;">Stacks</h1>
 
-<div style="display: inline_block">
+
+
+<!-- <div style="display: inline_block">
     <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="VS Code" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Vim" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-    <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>
-</div>
+</div> -->
+
+<p align="left">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg">
+    <br>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+    <br>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+    <br>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+</p>
