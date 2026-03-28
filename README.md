@@ -1,22 +1,22 @@
-<h1 style="text-decoration: underline;">Stacks</h1>
+# VladimirT (aka. VT0x00)
+**Software Engineer | Go & Micro & Distributed Systems**
 
+---
 
+### 🔭 Technical Focus
+*   **Microservices:** Designing scalable backend architectures and inter-service communication.
+*   **Distributed Systems:** Building fault-tolerant services using consensus protocols (**Raft**).
+*   **Infrastructure:** Linux-centered development, automation, and containerization.
 
-<!-- <div style="display: inline_block">
-    <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> -->
+### 🛠 Tech Stack & Workflow
+*   **Languages:** Go (Golang), Python, Bash-scripting, SQL
+*   **Key Libraries:** [micro](https://git.unistack.org/unistack-org/micro), gRPC, Protobuf, [hashicorp/raft](https://github.com/hashicorp/raft)
+*   **Environment:** Linux, Git, Docker & Docker Compose
+*   **Editors:** [VS Code](https://code.visualstudio.com/) (Primary), [Helix](https://helix-editor.com) (Post-modern modal editing)
+*   **Monitoring:** Prometheus + Grafana
 
-<p align="left">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg">
-    <br>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-    <br>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
-    <br>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-</p>
+### 📂 Highlighted Projects
+*   **[DeKVS](https://github.com)** – A fault-tolerant, distributed key-value store built with Go and the **Hashicorp Raft** protocol. Features integrated **Prometheus** monitoring and a **Docker Compose** setup for rapid multi-node cluster deployment and testing.
+*   **[bookserver-micro](https://github.com/VT0x00/bookserver-micro)** – A simple implementation of the backend of an online library based on microservices, for practicing writing a microservice architecture.
+
+### 📊 GitHub Activity
