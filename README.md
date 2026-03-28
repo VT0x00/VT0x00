@@ -19,5 +19,5 @@
 *   **[DeKVS](https://github.com)** – A fault-tolerant, distributed key-value store built with Go and the **Hashicorp Raft** protocol. Features integrated **Prometheus** monitoring and a **Docker Compose** setup for rapid multi-node cluster deployment and testing.
 *   **[bookserver-micro](https://github.com/VT0x00/bookserver-micro)** – A simple implementation of the backend of an online library based on microservices, for practicing writing a microservice architecture.
 
-### 📊 Engineering Metrics
-![Metrics](github-metrics.svg)
+### 📊 Stats
+![VT0x00's Stats](github-metrics.svg)
