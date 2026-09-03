@@ -5,7 +5,7 @@
 
 ### 🔭 Technical Focus
 *   **Microservices:** Designing scalable backend architectures and inter-service communication.
-*   **Distributed Systems:** Building fault-tolerant services using consensus protocols (**Raft**).
+*   **Distributed Systems:** Building fault-tolerant services.
 *   **Infrastructure:** Linux-centered development, automation, and containerization.
 
 ### 🛠 Tech Stack & Workflow
