@@ -1,5 +1,13 @@
 # VladimirT (aka. VT0x00)
-**Software Engineer | Go & Micro & Distributed Systems**
+**Junior Go Developer | Go & Micro & Distributed Systems**
+
+---
+
+<div align="center">
+  
+[cv (english)](https://github.com/VT0x00/cv/blob/main/README.en.md) | [резюме (русский)](https://github.com/VT0x00/cv/blob/main/README.ru.md)
+
+</div>
 
 ---
 
@@ -9,11 +17,11 @@
 *   **Infrastructure:** Linux-centered development, automation, and containerization.
 
 ### 🛠 Tech Stack & Workflow
-*   **Languages:** Go (Golang), Python, Bash-scripting, SQL
-*   **Key Libraries:** [micro](https://git.unistack.org/unistack-org/micro), gRPC, Protobuf
+*   **Languages:** Go (primary), Python, C++ (basic), Bash-scripting, SQL
+*   **Key Libraries:** [micro](https://git.unistack.org/unistack-org/micro), gRPC, Protobuf (proto3), REST, microservices
 *   **Environment:** Linux, Git, Docker & Docker Compose
-*   **Editors:** [VS Code](https://code.visualstudio.com/) (Primary), [Helix](https://helix-editor.com) (Post-modern modal editing)
 *   **Monitoring:** Prometheus + Grafana
+*   **Tools:** [VS Code](https://code.visualstudio.com/) (Primary), [Helix](https://helix-editor.com) (Post-modern modal editing), protoc, grpcurl, Make
 
 ### 📂 Highlighted Projects
 *   **[TonVault](https://github.com/VT0x00/TonVault)** — A multifunctional CLI wallet for the TON blockchain. With the ability to manage wallets, send tokens, view transaction history, etc.
